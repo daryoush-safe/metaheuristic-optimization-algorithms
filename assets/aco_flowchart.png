@@ -1,0 +1,10 @@
+# This is a placeholder for the ACO flowchart image
+# The actual image should be created using a diagram tool like draw.io, Lucidchart, or similar
+# The flowchart should show the main steps of the ACO algorithm:
+# 1. Initialize pheromone matrix
+# 2. Place ants on graph
+# 3. Each ant constructs solution
+# 4. Calculate fitness of solutions
+# 5. Update pheromone levels
+# 6. Check termination condition
+# 7. Return best solution or continue 
